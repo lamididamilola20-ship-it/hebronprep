@@ -594,4 +594,4 @@ export default function Home() {
                     <button
                       type="button"
                       onClick={() => openAuth('login')}
-                      className="text-blue-500">
+                  className="text-blue-500">Log In</button>
